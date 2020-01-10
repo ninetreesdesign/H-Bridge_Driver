@@ -1,0 +1,15 @@
+notes:
+teraterm terminal setup: Receive LF
+
+Established a repo on GitLab
+
+Established repo in platformIO/vscode folder
+How to connect...
+should be
+    git add remote Name
+        "          URL
+
+Tried TortoiseGIt; it errors
+
+
+ctrl-SH-[    fold a secion of code   https://stackoverflow.com/questions/30067767/how-do-i-collapse-sections-of-code-in-visual-studio-code-for-windows
